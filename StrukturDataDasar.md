@@ -2,10 +2,6 @@
 
 ---
 
-Berikut adalah materi perkuliahan mengenai **Algoritma Pemrograman** dengan pembahasan tentang **Struktur Data Dasar**, **Array dan Matriks**, **Linked List**, **Stack dan Queue**, **Tree dan Binary Search Tree**, serta **Graph**.
-
----
-
 ### **1. Struktur Data Dasar**
 Struktur data adalah cara untuk menyimpan dan mengorganisir data dalam komputer agar dapat digunakan secara efisien. Struktur data dasar mencakup berbagai tipe data yang sering digunakan dalam pemrograman.
 
