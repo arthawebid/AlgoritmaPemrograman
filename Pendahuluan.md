@@ -1,4 +1,4 @@
-**Pendahuluan**
+#### **Pendahuluan**
 #### **1. Definisi Algoritma**
 Algoritma adalah langkah-langkah atau prosedur yang sistematis dan terstruktur untuk menyelesaikan suatu masalah. Dalam konteks pemrograman komputer, algoritma berfungsi untuk memberikan instruksi yang jelas dan tepat kepada komputer agar dapat menyelesaikan suatu tugas atau masalah tertentu.
 
