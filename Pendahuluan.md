@@ -1,3 +1,5 @@
+[Pendahuluan](Pendahuluan.md) | [Dasar-Dasar Pemrograman]() | [Tipe-Tipe Algoritma]() | [Struktur Data Dasar]() | [Analisis Algoritma]() | [Algoritma Pencarian]() | [Algoritma Pengurutan]() | [Algoritma Rekursif]() | [Algoritma Rekursif]() | [Algoritma Dinamis]() | [Graf dan Algoritma Graf]() | [Kompleksitas dan Optimasi Algoritma]() | [Penerapan Algoritma dalam Kehidupan Nyata]() | [Studi Kasus dan Proyek]() | [Penutupan]()
+
 ## **Pendahuluan**
 #### **1. Definisi Algoritma**
 Algoritma adalah langkah-langkah atau prosedur yang sistematis dan terstruktur untuk menyelesaikan suatu masalah. Dalam konteks pemrograman komputer, algoritma berfungsi untuk memberikan instruksi yang jelas dan tepat kepada komputer agar dapat menyelesaikan suatu tugas atau masalah tertentu.
