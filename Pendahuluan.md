@@ -1,4 +1,4 @@
-[Pendahuluan](Pendahuluan.md) | [Dasar-Dasar Pemrograman]() | [Tipe-Tipe Algoritma]() | [Struktur Data Dasar]() | [Analisis Algoritma]() | [Algoritma Pencarian]() | [Algoritma Pengurutan]() | [Algoritma Rekursif]() | [Algoritma Rekursif]() | [Algoritma Dinamis]() | [Graf dan Algoritma Graf]() | [Kompleksitas dan Optimasi Algoritma]() | [Penerapan Algoritma dalam Kehidupan Nyata]() | [Studi Kasus dan Proyek]() | [Penutupan]()
+[TOC](/) | [Pendahuluan](Pendahuluan.md) | [Dasar-Dasar Pemrograman](Dasar-Dasar Pemrograman.md) | [Tipe-Tipe Algoritma](Tipe-Tipe Algoritma.md) | [Struktur Data Dasar](Struktur Data Dasar.md) | [Analisis Algoritma]() | [Algoritma Pencarian]() | [Algoritma Pengurutan]() | [Algoritma Rekursif]() | [Algoritma Rekursif]() | [Algoritma Dinamis]() | [Graf dan Algoritma Graf]() | [Kompleksitas dan Optimasi Algoritma]() | [Penerapan Algoritma dalam Kehidupan Nyata]() | [Studi Kasus dan Proyek]() | [Penutupan]()
 
 ## **Pendahuluan**
 #### **1. Definisi Algoritma**
