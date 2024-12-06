@@ -1,6 +1,6 @@
 ### **Table of Contents: Algoritma Pemrograman**
 
-1. **Pendahuluan**
+1. [**Pendahuluan**](Pendahuluan.md)
    - 1.1 Definisi Algoritma
    - 1.2 Pentingnya Algoritma dalam Pemrograman
    - 1.3 Karakteristik Algoritma yang Baik
