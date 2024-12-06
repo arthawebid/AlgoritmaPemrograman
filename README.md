@@ -6,7 +6,7 @@
    - 1.3 Karakteristik Algoritma yang Baik
    - 1.4 Notasi dalam Algoritma (Pseudocode dan Flowchart)
 
-2. [**Dasar-Dasar Pemrograman**](Dasar-Dasar Pemrograman.md)
+2. [**Dasar-Dasar Pemrograman**](DasarPemrograman.md)
    - 2.1 Struktur Program
    - 2.2 Tipe Data dan Variabel
    - 2.3 Operator dan Ekspresi
