@@ -1,4 +1,4 @@
-[TOC](/) | [Pendahuluan](Pendahuluan.md) | [Dasar-Dasar Pemrograman](Dasar-Dasar Pemrograman.md) | [Tipe-Tipe Algoritma](Tipe-Tipe Algoritma.md) | [Struktur Data Dasar](Struktur Data Dasar.md) | [Analisis Algoritma]() | [Algoritma Pencarian]() | [Algoritma Pengurutan]() | [Algoritma Rekursif]() | [Algoritma Rekursif]() | [Algoritma Dinamis]() | [Graf dan Algoritma Graf]() | [Kompleksitas dan Optimasi Algoritma]() | [Penerapan Algoritma dalam Kehidupan Nyata]() | [Studi Kasus dan Proyek]() | [Penutupan]()
+[TOC](README.md) | [Pendahuluan](Pendahuluan.md) | [Dasar-Dasar Pemrograman](Dasar-Dasar Pemrograman.md) | [Tipe-Tipe Algoritma](Tipe-Tipe Algoritma.md) | [Struktur Data Dasar](Struktur Data Dasar.md) | [Analisis Algoritma](Analisis Algoritma.md) | [Algoritma Pencarian](Algoritma Pencarian.md) | [Algoritma Pengurutan](Algoritma Pengurutan.md) | [Algoritma Rekursif](Algoritma Rekursif.md) | [Algoritma Greedy](Algoritma Greedy.md) | [Algoritma Dinamis](Algoritma Dinamis.md) | [Graf dan Algoritma Graf](Graf dan Algoritma Graf.md) | [Kompleksitas dan Optimasi Algoritma](Kompleksitas dan Optimasi Algoritma.md) | [Penerapan Algoritma dalam Kehidupan Nyata](Penerapan Algoritma dalam Kehidupan Nyata.md) | [Studi Kasus dan Proyek](Studi Kasus dan Proyek.md) | [Penutupan](Penutupan.md)
 
 ## **Pendahuluan**
 #### **1. Definisi Algoritma**
@@ -115,3 +115,6 @@ Keunggulan flowchart:
 3. Gambarkan flowchart untuk algoritma pengurutan (sorting) seperti Bubble Sort atau Selection Sort.
 
 Dengan memahami konsep-konsep di atas, Anda akan lebih siap untuk mengembangkan algoritma dalam pemrograman dengan cara yang sistematis dan efisien.
+
+---
+[TOC](README.md) | [Pendahuluan](Pendahuluan.md) | [Dasar-Dasar Pemrograman](Dasar-Dasar Pemrograman.md) | [Tipe-Tipe Algoritma](Tipe-Tipe Algoritma.md) | [Struktur Data Dasar](Struktur Data Dasar.md) | [Analisis Algoritma](Analisis Algoritma.md) | [Algoritma Pencarian](Algoritma Pencarian.md) | [Algoritma Pengurutan](Algoritma Pengurutan.md) | [Algoritma Rekursif](Algoritma Rekursif.md) | [Algoritma Greedy](Algoritma Greedy.md) | [Algoritma Dinamis](Algoritma Dinamis.md) | [Graf dan Algoritma Graf](Graf dan Algoritma Graf.md) | [Kompleksitas dan Optimasi Algoritma](Kompleksitas dan Optimasi Algoritma.md) | [Penerapan Algoritma dalam Kehidupan Nyata](Penerapan Algoritma dalam Kehidupan Nyata.md) | [Studi Kasus dan Proyek](Studi Kasus dan Proyek.md) | [Penutupan](Penutupan.md)
