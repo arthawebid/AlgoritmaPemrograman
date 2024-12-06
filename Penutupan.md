@@ -2,8 +2,6 @@
 
 ---
 
-## **Materi Perkuliahan: Algoritma Pemrograman**
-
 ### **1. Penutupan**
 Pada akhir perkuliahan ini, kita telah mempelajari berbagai aspek penting dalam algoritma pemrograman, mulai dari definisi dasar, jenis-jenis algoritma, hingga teknik-teknik analisis kompleksitas. Penguasaan algoritma adalah kunci untuk menyelesaikan masalah-masalah dalam pemrograman secara efisien.
 

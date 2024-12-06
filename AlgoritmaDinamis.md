@@ -2,8 +2,6 @@
 
 ---
 
-## **Materi Perkuliahan: Algoritma Dinamis**
-
 ### **1. Pengertian Algoritma Dinamis**
 
 **Algoritma Dinamis** (Dynamic Programming, DP) adalah sebuah teknik pemrograman yang digunakan untuk menyelesaikan masalah yang dapat dibagi menjadi sub-masalah yang lebih kecil dan saling berhubungan. Teknik ini sangat efektif digunakan pada masalah optimasi yang memiliki *optimal substructure* dan *overlapping subproblems*.
